@@ -1,0 +1,52 @@
+.logo-img {
+	width: 250px;
+}
+
+.nav-item {
+	padding: 15px;
+}
+
+h1 {
+	font-size: 72px;
+}
+
+.jumbotron {
+	background-image: url("../img/01.png");
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+ 	background-size: cover; 	
+}
+
+.jumbotext {
+	color: white;
+}
+
+.annaquote {
+	color: brown;
+}
+
+body {
+	background-image: url("../img/bg.jpg");
+}
+
+footer {
+	background-color: white;	
+}
+
+footer ul {
+	list-style: none;
+}
+
+footer .copyright {
+	color: white;
+	background-color: red;	
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+footer .menu {
+	padding:10px;
+}
+.copyright-text{
+	
+}
