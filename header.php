@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand navbar-light bg-light">
+    <nav class="navbar navbar-expand navbar1">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <a href="http://vk.com/cirkovaphoto"><i class="fab fa-vk fa-2x"></i></a>
@@ -15,10 +15,10 @@
                     <a class="nav-link" href="tel:+79101401272">+7 (910) 140-12-72</a>
                 </li>                
                 <li class="nav-item">
-                    <a class="nav-link" href="mailto://decorator-nn@mail.ru"><i class="far fa-envelope"></i> decorator-nn@mail.ru</a>
+                    <a class="nav-link" href="mailto:decorator-nn@mail.ru"><i class="far fa-envelope"></i> decorator-nn@mail.ru</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ url('/register') }}">ПН-ПТ 10:00-18:00</a>
+                    <p class="nav-link">ПН-ПТ 10:00-18:00</p>
                 </li>
           </ul>
     </nav>

@@ -17,7 +17,7 @@
     <?php include 'header.php';?>  
     <main role="main">
         <div class="jumbotron">
-          <div class="col-sm-10 mx-auto jumbotext text-center">
+          <div class="col-sm-12 mx-auto jumbotext text-center">
             <h1>ШТОРЫ ДЛЯ ДОМА</h1>
             <h2>Для кухни и спальни, для гостинной и детской, для загородного дома,<br>          
               Придумаем модель, подберём ткань, сошьём и развесим новые шторы.<br>Ваш дом будет самый красивый и уютный.</h2>

@@ -1,9 +1,17 @@
+.navbar1 {		
+	background-color: #dddddd;
+}
+
+a:link {
+    color: black;
+}
+
 .logo-img {
 	width: 250px;
 }
 
 .nav-item {
-	padding: 15px;
+	padding: 5px;
 }
 
 h1 {
@@ -19,10 +27,6 @@ h1 {
 
 .jumbotext {
 	color: white;
-}
-
-.annaquote {
-	color: brown;
 }
 
 body {
