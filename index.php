@@ -21,22 +21,11 @@
             <h1>ШТОРЫ ДЛЯ ДОМА</h1>
             <h2>Для кухни и спальни, для гостинной и детской, для загородного дома,<br>          
               Придумаем модель, подберём ткань, сошьём и развесим новые шторы.<br>Ваш дом будет самый красивый и уютный.</h2>
-            <br><br><br><br><br><br>                        
-
-            <div class="card">
-              <div class="card-body">
-                <div class="row">
-                  <div class="col-sm-4">
-                    <img class="img-fluid" src="img/me.png">
-                  </div>
-                  <div class="col-sm-8 annaquote">
-                    <h2>-"Я люблю создавать уют и красоту. Мой опыт и современные ткани помогут сделать вашу идею реальной!</h2>
-                    <h2>Анна Руновская, ваш дизайнер по текстилю</h2>
-                  </div>
-                </div>                
-                
-              </div>
-            </div>
+            <br><br>
+            <div class="row">                  
+              <img class="img-fluid" src="img/face2.png">                  
+            </div>                                
+              
           </div>          
         </div>
       <div class="container">
