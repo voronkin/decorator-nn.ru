@@ -23,7 +23,13 @@
               Придумаем модель, подберём ткань, сошьём и развесим новые шторы.<br>Ваш дом будет самый красивый и уютный.</h2>
             <br><br>
             <div class="row">                  
-              <img class="img-fluid" src="img/face2.png">                  
+              <div class="col-sm-1">
+              </div>
+              <div class="col-sm-10">
+                  <img class="img-fluid" src="img/face2.png">                  
+              </div>
+              <div class="col-sm-1">
+              </div>              
             </div>                                
               
           </div>          
